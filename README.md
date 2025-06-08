@@ -1,6 +1,6 @@
 # Earth2Project     -    The Human-Internet-Protocol (HIP)
 
-## Brief Overivew
+## Vision
 
 HIP is a framework designed to revolutionise the internet. the era of the internet will fall, let a new wave of technology promoting security, eleminating bots, removal of fake accounts, and making malicious automation impossible. By linking physical identity to digital identiy through the use of real-world verifications through verified IDS, passports and later on biometrics for quick usage, HIP aims to create a safer, more accountable and age restricited internet where people are protected, accounted for and monitored for safety
 
@@ -24,6 +24,32 @@ HIP is a framework designed to revolutionise the internet. the era of the intern
     : no accounts should be deleted, or banned, just monitored restricted and suspended based on internet laws of usage
 - **Ai-Powered management**
     : block spamming bot detection and internet monitoring
+- **Decentralised Trust Ledger**
+    : removal of blockchain overhead to create a public audit trail of identity verification, content moderation and government access logs to provide trasnsparency and removal of abuse of power
+- **User reputation scores**
+    : authentic usage where it shows content or moderation incidents and their contributions to communities or reviews. accessed by permission.
+- **links across education and work**
+    : as its linked to a ID, it could also be linked to educational IDs, to show qualifications, credentials, certificates and places of work. ensuring quick access of data and centralised proof.
+- **narrow personalised AI assistance**
+    : judges user repretation scores, and shows flagged current misinformation
+- **civic participation tools**
+    : as linked to ID could also help with voting in local or current eletions, and participations in policy feedback forums. and provide a better method for older individuals
+- **Globailsed dashboard for real-time cyberhealth**
+    : shows bot activity spots, trending misinformation, current ongoing logs, internet health scores per region. and daily reports on blocked bots, fixed issues ectra
+- **Unique Identifier**
+    : only information known about users are whatever is publicised and their U_ID, no other information is accessible unless requested permission, this is for governments to. user safety.
+- **internet smart content**
+    : all data has metadata containing (u_id, age rating, category, moderation history, reputation_scores) to help filter junk, misinformation and ragebait sources
+- **Digitalised Human citizenship**
+    : the internet account is linked to a passport and only one person, meaning identification account possession can show verifiable information like identity, age, region, rights, reputation scores. to show credentials and citizenship. also incorporating a green, yellow, red system for current status of account record (excellent, under review for e:, suspended) 
+- **internet onboarding**
+    : new courses to teach users about digial etiquette, privacy basis, consent and safety rules, trustworthy, and publicitiy of information
+- **Self-sovereign identity (SSI) + Verifiable Credentials (VCs) + Decentralised Identifiers (Did)**
+    : uses a wallet the user controls to store trusted authorities information (passport, school, office, governement stuff) which isnt shared to the system, credentials are crypptographicallly signed and stored on device not servers. (but can be accessed if approved for criminal reasons). utilised Vcs to show when user is over the age of 18 and approved by government to access site, same with work credentials and school credentials. without sharing key information. next is using Dids to assign a public key to a user on a network to link to Vcs
+- **Temporary account usages**
+    : refugees and those needed accounts without credential will get permission for rights from government permission, where they can only view information + educational access, where they cant edit, change, upload, manage, comment only view information. temporary accounts are geo-bound, time-limited- auto-logged to track tempoarry credentials (signed by NGOs or government) 
+
+
 
 # Motivation 
 
